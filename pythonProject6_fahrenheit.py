@@ -1,0 +1,1 @@
+file=open('C:\Users\12055\PycharmProjects\pythonProject6')
